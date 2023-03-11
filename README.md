@@ -6,4 +6,4 @@ Watch and save names on the file wordlist.txt
 # 🆘 Help
 Contact me on telegram if you need help: @sickalex
 
-(Translator by [@JoyIIA on telegram](t.me/@joyiia) and project made by [@sickalex on telegram](t.me/@sickalex)
+(Translator by [@JoyIIA on telegram](t.me/@joyiia) and project made by [@sickalex on telegram](t.me/@sickalex))
